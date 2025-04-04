@@ -14,6 +14,6 @@
 ![ELK](https://img.shields.io/badge/ELK-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vladimir-arsenov&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vladimir-arsenov&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vladimir-arsenov&show_icons=true&hide_rank=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
 
