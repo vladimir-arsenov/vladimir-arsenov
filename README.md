@@ -14,6 +14,12 @@
 ![ELK](https://img.shields.io/badge/ELK-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vladimir-arsenov&show_icons=true&hide_rank=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
 
+<div style="display: inline-block; padding: 10px; border: 2px solid #ccc; border-radius: 8px;">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=vladimir-arsenov&show_icons=true&hide_rank=true&hide_border=true" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vladimir-arsenov&size_weight=0.6&count_weight=0.5&hide_title=true&hide_border=true" />
+  </a>
+</div>
